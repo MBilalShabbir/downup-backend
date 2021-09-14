@@ -4,4 +4,8 @@ django-cors-headers==3.8.0
 djangorestframework==3.12.4
 psycopg2-binary==2.9.1
 pytz==2021.1
+simplified-scrapy==1.5.164
 sqlparse==0.4.2
+aiohttp==3.7.4.post0
+beautifulsoup4==4.10.0
+requests==2.26.0
